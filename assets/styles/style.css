@@ -1,0 +1,27 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.about-me-container {
+  justify-content: center;
+  margin-bottom: 10%;
+  margin-top: 2%;
+  width: 80%;
+}
+
+.contact-container {
+  justify-content: center;
+  margin-top: 5%;
+}
+
+body {
+  background-image: url('../images/background-image.png');
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: white;;
+}
